@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://FeistyMaestro.github.io/resources-16bc4g/sitemap.xml
